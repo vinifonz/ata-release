@@ -1,0 +1,16 @@
+{
+  "serial": 1,
+  "issued": "2026-11-15T17:54:54.448Z",
+  "expires": "2027-03-15T17:54:54.448Z",
+  "keys": [
+    {
+      "fingerprint": "SHA256:0/TnhGb4QRHmuh0LIxE0VTgs5oiIw6MW+YlcZwBSenM",
+      "status": "current"
+    }
+  ],
+  "script": {
+    "sha256": "084bbf0772dfc556f4ba04688567b47084893ab83aac167a3bda2be85d7c4b6d"
+  },
+  "minimum_client": 1,
+  "products": {}
+}
