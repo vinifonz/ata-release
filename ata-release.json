@@ -1,7 +1,7 @@
 {
-  "serial": 1,
-  "issued": "2026-11-15T17:54:54.448Z",
-  "expires": "2027-03-15T17:54:54.448Z",
+  "serial": 2,
+  "issued": "2026-11-21T15:32:57.268Z",
+  "expires": "2027-03-21T15:32:57.268Z",
   "keys": [
     {
       "fingerprint": "SHA256:0/TnhGb4QRHmuh0LIxE0VTgs5oiIw6MW+YlcZwBSenM",
@@ -9,7 +9,7 @@
     }
   ],
   "script": {
-    "sha256": "084bbf0772dfc556f4ba04688567b47084893ab83aac167a3bda2be85d7c4b6d"
+    "sha256": "a782d82b721165c3f1285b6fdef6c9ac7bd3af5fe0795aa598f450b2dedf2acd"
   },
   "minimum_client": 1,
   "products": {}
